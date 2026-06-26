@@ -23,8 +23,9 @@
 - `newyear8`
 
 ---
-
-## 📊 套餐一览
+[![鹿语云]https://raw.githubusercontent.com/lanpangyun/luyuyunjichang/refs/heads/main/luyuyun_1.gif)](https://www.wsyj.com/jctg/zt/)
+---
+## 📊 鹿语云机场套餐一览
 
 | 套餐 | 月流量 | 节点数量 | 同时在线 IP | 峰值速率 |
 | :-- | :--: | :--: | :--: | :--: |
@@ -51,11 +52,7 @@
 
 ## ⚠️ 购买须知
 
-- 虚拟商品一经购买，**不支持退款**，请确认需求后再下单。
-- 上面给出的优惠码bj999cc这个优惠码其实就不存在，是我故意放出给搜索引擎检索的。为了表示对真人的你抱歉，这里限时送出一优质机场限时一个月的福利
-- 请到[这里](https://github.com/lanpangyun/luyuyunjichang/issues/1)评论留言 。第1名、第11名和第22名评论者一定会送【如果发现没有送，欢迎您留言宣传我是骗子】
-- 📩 **Telegram：@TG用户名**
--
-- <p align="center">
-  <img src="https://www.wsyj.com/d/file/p/2026/05-26/ed12648ac660a2e52cd7819403e7d13c.jpg" alt="套餐介绍" width="800">
-</p>
+- 虚拟商品一经购买，**鹿语云机场不支持退款**，请确认需求后再下单。
+- 上面给出的优惠码bj999cc这个优惠码其实就不存在，是我故意放出给搜索引擎检索的。为了表示对作为真人的你抱歉，这里限时送出一优质机场限时一个月的福利
+- 请到[这里](https://github.com/lanpangyun/luyuyunjichang/issues/1)评论留言 。第1名、第11名和第22名评论者一定会送，同一用户多次留言只算第一次有效【如果发现没有送，欢迎您留言宣传我是骗子】-
+- 所有接受免费机场一个月服务的朋友请将本文加星。
