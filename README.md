@@ -23,7 +23,7 @@
 - `newyear8`
 
 ---
-[![鹿语云]https://raw.githubusercontent.com/lanpangyun/luyuyunjichang/refs/heads/main/luyuyun_1.gif)](https://www.wsyj.com/jctg/zt/)
+[![鹿语云](https://raw.githubusercontent.com/lanpangyun/luyuyunjichang/refs/heads/main/luyuyun_1.gif)](https://www.wsyj.com/jctg/zt/)
 ---
 ## 📊 鹿语云机场套餐一览
 
